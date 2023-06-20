@@ -7,7 +7,7 @@ Visit the project's website at <https://butterproject.org>.
 
 ***
 
-__WARNING__ : This project is in very early stage development and almost nothing works yet ! It will someday replace the current `butter-desktop` app based on others techs. This project is using __Electron__ + __Angular__ + __Coffee__. If you want to help and have any skills in one of these techs, please submit a PR and give Butter some love :-)
+__WARNING__ : This project is in a very early stage of development and almost nothing works yet! It will someday replace the current `butter-desktop` app based on other techs. This project is using __Electron__ + __Angular__ + __Coffee__. If you want to help and have any skills in one of these techs, please submit a PR and give Butter some love :-)
 
 ***
 
@@ -15,7 +15,7 @@ __WARNING__ : This project is in very early stage development and almost nothing
 
 ## Getting Involved
 
-Want to report a bug, request a feature, contribute or translate Butter? Check out our in-depth guide to [Contributing to Butter](CONTRIBUTING.md#contributing-to-butter). We need all the help we can get! You can also join in with our [community](README.md#community) to keep up-to-date and meet other Butterrs.
+Want to report a bug, request a feature, contribute, or translate Butter? Check out our in-depth guide to [Contributing to Butter](CONTRIBUTING.md#contributing-to-butter). We need all the help we can get! You can also join in with our [community](README.md#community) to keep up-to-date and meet other Butter users.
 
 ## Getting Started
 
